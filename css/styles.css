@@ -91,12 +91,3 @@ h3 {
     text-overflow: ellipsis;
     overflow: hidden;
   }
-
-  @media (max-width: 600px) { 
-    .uk-width-1-3 {
-        width: 100% !important;
-    }
-    .uk-width-1-2 {
-        width: 100% !important;
-    }
-  }
