@@ -91,3 +91,13 @@ h3 {
     text-overflow: ellipsis;
     overflow: hidden;
   }
+
+  .uk-progress.uk-progress-yellow::-webkit-progress-value {
+    background-color: #E9CE2C;
+  }
+  .uk-progress.uk-progress-yellow::-moz-progress-bar {
+    background-color: #E9CE2C;
+  }
+  .uk-progress.uk-progress-yellow::-ms-fill {
+    background-color: #E9CE2C;
+  }
